@@ -1,0 +1,91 @@
+<?php
+/*+***********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ *************************************************************************************/
+$languageStrings = array(
+	'LayoutEditor'=>'Išdėstymo redaktorius',
+	'LBL_FIELDS_AND_LAYOUT_EDITOR'=>'Laukų ir išdėstymo tvarkyklė',
+	'LBL_CREATE_CUSTOM_FIELD'=>'Sukurti individualizuotą lauką',
+	'LBL_DETAILVIEW_LAYOUT'=>'Išsamios informacijos vaizdo schema',
+	'LBL_ARRANGE_RELATED_TABS'=>'Tvarkyti susijusias žymes',
+	'LBL_ADD_CUSTOM_FIELD'=>'Pridėti individualizuotą lauką',
+	'LBL_ADD_CUSTOM_BLOCK'=>'Pridėti individualizuotą bloką',
+	'LBL_SAVE_FIELD_SEQUENCE'=>'Įrašyti laukų seką',
+	'LBL_BLOCK_NAME'=>'Bloko pavadinimas',
+	'LBL_ADD_AFTER'=>'Pridėti po',
+	'LBL_ACTIONS'=>'Veiksmai',
+	'LBL_ALWAYS_SHOW'=>'Visada rodyti',
+	'LBL_INACTIVE_FIELDS'=>'Neaktyvūs laukai',
+	'LBL_DELETE_CUSTOM_BLOCK'=>'Pašalinti individualizuotą bloką',
+	'LBL_MANDATORY_FIELD'=>'Privalomas laukas',
+	'LBL_ACTIVE'=>'Aktyvus',
+	'LBL_QUICK_CREATE'=>'Greitasis kūrimas',
+	'LBL_SUMMARY_FIELD'=>'Santrauka',
+	'LBL_MASS_EDIT'=>'Dauginis redagavimas',
+	'LBL_DEFAULT_VALUE'=>'Numatytojji reikšmė',
+	'LBL_SELECT_FIELD_TYPE'=>'Pasirinkite lauko tipą',
+	'LBL_LABEL_NAME'=>'Žymės pavadinimas',
+	'LBL_LENGTH'=>'Ilgis:',
+	'LBL_DECIMALS'=>'Dešimtainiai skaičiai',
+	'LBL_ENTER_PICKLIST_VALUES'=>'Įveskite atrinkčių sąrašo reikšmes',
+	'LBL_PICKLIST_VALUES'=>'Galimos atrinkčių sąrašo reikšmės',
+	'LBL_INACTIVE_FIELDS'=>'Neaktyvūs laukai',
+	'LBL_REACTIVATE'=>'Pakartotinai aktyvuoti',
+	'LBL_ARRANGE_RELATED_LIST'=>'Tvarkyti susijusius sąrašus',
+	'LBL_SELECT_MODULE_TO_ADD'=>'Pasirinkite norimą pridėti modulį',
+	'LBL_NO_RELATED_INFORMATION'=>'Susijusios informacijos nėra',
+	'LBL_RELATED_LIST_INFO'=>'Tempkite modulius norėdami pertvarkyti sąrašą.',
+	'LBL_REMOVE_INFO'=>'Spustelėkite uždarymo ikonėlę norėdami pašalinti modulį iš sąrašo',
+	'LBL_ADD_MODULE_INFO'=>'Pasirinkite modulį iš pašalintųjų, kurį norite grąžinti atgal į sąrašą',
+	'LBL_SELECT_MODULE'=>'Pasirinkite modulį',
+	'LBL_DUPLICATES_EXIST'=>'Toks bloko pavadinimas jau egzistuoja',
+	'LBL_NON_ROLE_BASED_PICKLIST'=>'Atrinkčių sąrašas ne pagal vaidmenį',
+	'LBL_DUPLICATE_FIELD_EXISTS'=>'Egzistuoja vienodi laukai',
+	'LBL_WRONG_FIELD_TYPE'=>'Klaidingas lauko tipas',
+	'LBL_ROLE_BASED_PICKLIST'=>'Vaidmenų atrinkčių sąrašas',
+	'LBL_CLICK_HERE_TO_EDIT'=>'Spustelėkite čia norėdami redaguoti',
+
+	//Field Types
+	'Text'=>'Tekstas',
+	'Decimal'=>'Dešimtainis',
+	'Integer'=>'Sveikasis skaičius',
+	'Percent'=>'Procentas',
+	'Currency'=>'Valiuta',
+	'Date'=>'Data',
+	'Email'=>'El. paštas',
+	'Phone'=>'Telefonas',
+	'PickList'=>'Atrinkčių sąrašas',
+	'MultiSelectCombo' => 'Multi-Select Combo Box',
+	'URL'=>'URL',
+	'Checkbox'=>'Žymimasis langelis',
+	'TextArea'=>'Teksto sritis',
+	'Skype'=>'Skype',
+	'Time'=>'Laikas',
+);
+
+$jsLanguageStrings = array(
+	'JS_BLOCK_VISIBILITY_SHOW'=>'Blokų rodymas įjungtas',
+	'JS_BLOCK_VISIBILITY_HIDE'=>'Blokų slėpimas įjungtas',
+	'JS_CUSTOM_BLOCK_ADDED'=>'Naujas individualizuotas blokas pridėtas',
+	'JS_BLOCK_SEQUENCE_UPDATED'=>'Blokų seka atnaujinta',
+	'JS_SELECTED_FIELDS_REACTIVATED'=>'Pažymėti laukai pakartotinai aktyvuoti',
+	'JS_FIELD_DETAILS_SAVED'=>'Lauko išplėstinė informacija įrašyta',
+	'JS_CUSTOM_BLOCK_DELETED'=>'Individualizuotas blokas pašalintas',
+	'JS_CUSTOM_FIELD_ADDED'=>'Naujas individualizuotas blokas pridėtas',
+	'JS_CUSTOM_FIELD_DELETED'=>'Individualizuotas laukas pašalintas',
+	'JS_LENGTH_SHOULD_BE_LESS_THAN_EQUAL_TO'=>'Ilgis turi būti ne ilgesnis nei',
+	'JS_PLEASE_ENTER_NUMBER_IN_RANGE_2TO5'=>'Dešimtainis ženklas gali būti nuo 2 iki 5 vietos',
+	'JS_SAVE_THE_CHANGES_TO_UPDATE_FIELD_SEQUENCE'=>'Norėdami atnaujinti laukų seką įrašykite pakeitimus',
+	'JS_RELATED_INFO_SAVED'=>'Susijusi informacija įrašyta',
+	'JS_BLOCK_NAME_EXISTS'=>'Toks bloko pavadinimas jau egzistuoja',
+	'JS_NO_HIDDEN_FIELDS_EXISTS'=>'Nėra neaktyvių laukų',
+	'JS_SPECIAL_CHARACTERS'=>'Ypatingi simboliai kaip',
+	'JS_NOT_ALLOWED'=>'negalimi',
+	'JS_FIELD_SEQUENCE_UPDATED'=>'Laukų seka atnaujinta',
+	'JS_DUPLICATES_VALUES_FOUND'=>'Rastos vienodos reikšmės'
+);
