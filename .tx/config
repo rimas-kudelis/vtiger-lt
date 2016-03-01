@@ -1,0 +1,394 @@
+[main]
+host = https://www.transifex.com
+lang_map = en: en_us, lt: modules
+
+[vtgr.accounts]
+file_filter = <lang>/Accounts.php
+source_file = en_us/Accounts.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.assets]
+file_filter = <lang>/Assets.php
+source_file = en_us/Assets.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.calendar]
+file_filter = <lang>/Calendar.php
+source_file = en_us/Calendar.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.campaigns]
+file_filter = <lang>/Campaigns.php
+source_file = en_us/Campaigns.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.contacts]
+file_filter = <lang>/Contacts.php
+source_file = en_us/Contacts.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.documents]
+file_filter = <lang>/Documents.php
+source_file = en_us/Documents.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.emails]
+file_filter = <lang>/Emails.php
+source_file = en_us/Emails.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.emailtemplates]
+file_filter = <lang>/EmailTemplates.php
+source_file = en_us/EmailTemplates.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.events]
+file_filter = <lang>/Events.php
+source_file = en_us/Events.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.faq]
+file_filter = <lang>/Faq.php
+source_file = en_us/Faq.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.google]
+file_filter = <lang>/Google.php
+source_file = en_us/Google.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.helpdesk]
+file_filter = <lang>/HelpDesk.php
+source_file = en_us/HelpDesk.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.home]
+file_filter = <lang>/Home.php
+source_file = en_us/Home.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.import]
+file_filter = <lang>/Import.php
+source_file = en_us/Import.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.install]
+file_filter = <lang>/Install.php
+source_file = en_us/Install.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.invoice]
+file_filter = <lang>/Invoice.php
+source_file = en_us/Invoice.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.leads]
+file_filter = <lang>/Leads.php
+source_file = en_us/Leads.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.mailmanager]
+file_filter = <lang>/MailManager.php
+source_file = en_us/MailManager.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.migration]
+file_filter = <lang>/Migration.php
+source_file = en_us/Migration.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.mobile]
+file_filter = <lang>/Mobile.php
+source_file = en_us/Mobile.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.modcomments]
+file_filter = <lang>/ModComments.php
+source_file = en_us/ModComments.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.modtracker]
+file_filter = <lang>/ModTracker.php
+source_file = en_us/ModTracker.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.pbxmanager]
+file_filter = <lang>/PBXManager.php
+source_file = en_us/PBXManager.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.portal]
+file_filter = <lang>/Portal.php
+source_file = en_us/Portal.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.potentials]
+file_filter = <lang>/Potentials.php
+source_file = en_us/Potentials.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.pricebooks]
+file_filter = <lang>/PriceBooks.php
+source_file = en_us/PriceBooks.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.products]
+file_filter = <lang>/Products.php
+source_file = en_us/Products.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.projectmilestone]
+file_filter = <lang>/ProjectMilestone.php
+source_file = en_us/ProjectMilestone.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.project]
+file_filter = <lang>/Project.php
+source_file = en_us/Project.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.projecttask]
+file_filter = <lang>/ProjectTask.php
+source_file = en_us/ProjectTask.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.purchaseorder]
+file_filter = <lang>/PurchaseOrder.php
+source_file = en_us/PurchaseOrder.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.quotes]
+file_filter = <lang>/Quotes.php
+source_file = en_us/Quotes.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.recyclebin]
+file_filter = <lang>/RecycleBin.php
+source_file = en_us/RecycleBin.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.reports]
+file_filter = <lang>/Reports.php
+source_file = en_us/Reports.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.rss]
+file_filter = <lang>/Rss.php
+source_file = en_us/Rss.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.salesorder]
+file_filter = <lang>/SalesOrder.php
+source_file = en_us/SalesOrder.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.servicecontracts]
+file_filter = <lang>/ServiceContracts.php
+source_file = en_us/ServiceContracts.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.services]
+file_filter = <lang>/Services.php
+source_file = en_us/Services.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.smsnotifier]
+file_filter = <lang>/SMSNotifier.php
+source_file = en_us/SMSNotifier.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.users]
+file_filter = <lang>/Users.php
+source_file = en_us/Users.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.vendors]
+file_filter = <lang>/Vendors.php
+source_file = en_us/Vendors.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.vtiger]
+file_filter = <lang>/Vtiger.php
+source_file = en_us/Vtiger.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.webservices]
+file_filter = <lang>/Webservices.php
+source_file = en_us/Webservices.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.wsapp]
+file_filter = <lang>/WSAPP.php
+source_file = en_us/WSAPP.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_crontasks]
+file_filter = <lang>/Settings/CronTasks.php
+source_file = en_us/Settings/CronTasks.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_currency]
+file_filter = <lang>/Settings/Currency.php
+source_file = en_us/Settings/Currency.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_customerportal]
+file_filter = <lang>/Settings/CustomerPortal.php
+source_file = en_us/Settings/CustomerPortal.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_extensionstore]
+file_filter = <lang>/Settings/ExtensionStore.php
+source_file = en_us/Settings/ExtensionStore.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_groups]
+file_filter = <lang>/Settings/Groups.php
+source_file = en_us/Settings/Groups.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_layouteditor]
+file_filter = <lang>/Settings/LayoutEditor.php
+source_file = en_us/Settings/LayoutEditor.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_leads]
+file_filter = <lang>/Settings/Leads.php
+source_file = en_us/Settings/Leads.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_mailconverter]
+file_filter = <lang>/Settings/MailConverter.php
+source_file = en_us/Settings/MailConverter.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_modulemanager]
+file_filter = <lang>/Settings/ModuleManager.php
+source_file = en_us/Settings/ModuleManager.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_payments]
+file_filter = <lang>/Settings/Payments.php
+source_file = en_us/Settings/Payments.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_pbxmanager]
+file_filter = <lang>/Settings/PBXManager.php
+source_file = en_us/Settings/PBXManager.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_picklistdependency]
+file_filter = <lang>/Settings/PickListDependency.php
+source_file = en_us/Settings/PickListDependency.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_picklist]
+file_filter = <lang>/Settings/Picklist.php
+source_file = en_us/Settings/Picklist.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_profiles]
+file_filter = <lang>/Settings/Profiles.php
+source_file = en_us/Settings/Profiles.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_roles]
+file_filter = <lang>/Settings/Roles.php
+source_file = en_us/Settings/Roles.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_sharingaccess]
+file_filter = <lang>/Settings/SharingAccess.php
+source_file = en_us/Settings/SharingAccess.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_smsnotifier]
+file_filter = <lang>/Settings/SMSNotifier.php
+source_file = en_us/Settings/SMSNotifier.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_vtiger]
+file_filter = <lang>/Settings/Vtiger.php
+source_file = en_us/Settings/Vtiger.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_webforms]
+file_filter = <lang>/Settings/Webforms.php
+source_file = en_us/Settings/Webforms.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.settings_workflows]
+file_filter = <lang>/Settings/Workflows.php
+source_file = en_us/Settings/Workflows.php
+source_lang = en
+type = PHP_ARRAY
+
+[vtgr.addons_customerportal]
+file_filter = addons/portal/<lang>.lang.php
+source_file = addons/portal/en_us.lang.php
+source_lang = en
+type = PHP_ARRAY
+lang_map = lt: lt_lt
