@@ -19,5 +19,5 @@ $languageStrings = array(
 	'LBL_INACTIVE' => 'Neaktyvus',
 	'LBL_RUNNING' => 'Vykdomas',
 	'Sequence' => 'Seka',
-	'Status' => 'Būklė',
+	'Status' => 'Būsena',
 );
