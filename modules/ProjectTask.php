@@ -8,13 +8,12 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectTask'=>'Projekto užduotis',
-	'LBL_ADD_RECORD'=>'Pridėti projekto užduotį',
-	'LBL_RECORDS_LIST'=>'Projekto užduočių sąrašas',
-
-	// Blocks
-	'LBL_PROJECT_TASK_INFORMATION'=>'Projekto užduoties išsami informacija',
-	'LBL_PROJECTS_LIST'=>'Projektų sąrašas',
+	'LBL_ADD_RECORD' => 'Pridėti projekto užduotį',
+	'LBL_PROJECTS_LIST' => 'Projektų sąrašas',
+	'LBL_PROJECT_TASK_INFORMATION' => 'Projekto užduoties informacija',
+	'LBL_RECORDS_LIST' => 'Projekto užduočių sąrašas',
 	'LBL_TASKS_LIST' => 'Užduočių sąrašas',
+	'SINGLE_ProjectTask' => 'Projekto užduotis',
+    'LBL_MILESTONES_LIST' => 'Etapų sąrašas',
+     'Canceled ' => 'Atšaukta',
 );

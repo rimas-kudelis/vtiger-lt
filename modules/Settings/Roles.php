@@ -8,35 +8,30 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Roles'=>'Vaidmenys',
-	'SINGLE_Roles'=>'Vaidmuo ',
-	'LBL_ADD_RECORD'=>'Pridėti vaidmenį',
-	'LBL_DELETE_ROLE'=>'Pašalinti vaidmenį',
-	'LBL_TRANSFER_OWNERSHIP'=>'Perkelti savininkystę',
-	'LBL_TO_OTHER_ROLE'=>'Kitam vaidmeniu',
-	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE'=>'Spustelėkite, norėdami redaguoti / vilkite, norėdami perkelti',
-	'LBL_ASSIGN_ROLE'=>'Priskirti vaidmenį',
-	'LBL_CHOOSE_PROFILES'=>'Pasirinkti profilius',
-	'LBL_COPY_PRIVILEGES_FROM'=>'Kopijuoti privilegijas iš',
-	
-	//Edit View
-	'LBL_PROFILE'=>'Profilis',
-	'LBL_REPORTS_TO'=>'Ataskaita pagal',
-	'LBL_NAME'=>'Vardas',
-	'LBL_ASSIGN_NEW_PRIVILEGES'=>'Priskirti privilegijas tiesiogiai vaidmeniui',
-	'LBL_ASSIGN_EXISTING_PRIVILEGES'=>'Priskirti privilegijas iš egzistuojančių profilių',
-	'LBL_PRIVILEGES'=>'Privilegijos',
-	'LBL_DUPLICATES_EXIST'=>'Egzistuoja vienodos rolės',
-	
-	//Assign Records to
-	'LBL_CAN_ASSIGN_RECORDS_TO'=>'Gali priskirti įrašus',
-	'LBL_ALL_USERS' => 'Visi vartotojai',
-	'LBL_USERS_WITH_LOWER_LEVEL'=>'Vartotojai su pavaldžiu vaidmeniu',
-	'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL'=>'Vartotojai su tuo pačiu arba pavaldžiu vaidmeniu',
+	'LBL_ADD_RECORD' => 'Pridėti vaidmenį',
+	'LBL_ALL_USERS' => 'visiems naudotojams',
+	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'priskirti egzistuojančių profilių privilegijas',
+	'LBL_ASSIGN_NEW_PRIVILEGES' => 'priskirti privilegijas tiesiogiai vaidmeniui',
+	'LBL_ASSIGN_ROLE' => 'Priskirti vaidmenį',
+	'LBL_CAN_ASSIGN_RECORDS_TO' => 'Gali priskirti įrašus',
+	'LBL_CHOOSE_PROFILES' => 'Pasirinkite profilius',
+	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Spustelėkite, jei norite redaguoti; vilkite, jei norite perkelti',
+	'LBL_COPY_PRIVILEGES_FROM' => 'Kopijuoti privilegijas iš',
+	'LBL_DELETE_ROLE' => 'Vaidmens šalinimas',
+	'LBL_DUPLICATES_EXIST' => 'Vaidmuo tokiu vardu jau egzistuoja',
+	'LBL_NAME' => 'Vardas',
+	'LBL_PRIVILEGES' => 'Privilegijos',
+	'LBL_PROFILE' => 'Profilis',
+	'LBL_REPORTS_TO' => 'Kam pavaldus',
+	'LBL_TO_OTHER_ROLE' => 'Kitam vaidmeniui',
+	'LBL_TRANSFER_OWNERSHIP' => 'Perkelti savininkystę',
+	'LBL_USERS_WITH_LOWER_LEVEL' => 'naudotojams su pavaldžiu vaidmeniu',
+	'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL' => 'naudotojams su tuo pačiu arba pavaldžiu vaidmeniu',
+	'Roles' => 'Vaidmenys',
+	'SINGLE_Roles' => 'Vaidmuo ',
 );
 
 $jsLanguageStrings = array(
-	'JS_PERMISSION_DENIED'=>'Leidimai neduoti',
-	'JS_NO_PERMISSIONS_TO_MOVE'=>'Teisių perkelti nesuteikta',
+	'JS_NO_PERMISSIONS_TO_MOVE' => 'Perkelti neturite teisių',
+	'JS_PERMISSION_DENIED' => 'Teisės nesuteiktos',
 );

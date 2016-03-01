@@ -9,16 +9,25 @@
  *************************************************************************************/
 $languageStrings = array(
 	
-	'Asterisk' => 'Žvaigždutė',
-	'PBXManager'=>'PBX tvarkyklė',
-	'SINGLE_PBXManager'=>'PBX tvarkyklė',
-	
-	//Blocks
-	'LBL_CALL_INFORMATION'=>'Skambučio išsami informacija',
-	
-	//Field Labels
-	'Call From'=>'Skambutis nuo',
-	'Call To'=>'Skambutis',
-	'Time Of Call'=>'Skambučio laikas',
-	'PBXManager ID'=>'PBX tvarkyklės ID',
+    //Blocks
+    'LBL_PBXMANAGER_INFORMATION' => 'Skambučio informacija',
+    'LBL_CUSTOM_INFORMATION'=>'Papildoma informacija',
+    
+    // list view settings links
+    'LBL_SERVER_CONFIGURATION' => 'Tiekėjo konfigūracija',
+    
+    //Detail view header title
+    'LBL_CALL_FROM' => 'Skambinta iš',
+    'LBL_CALL_TO' => 'Skambinta į',
+    
+    //Incoming call pop-up 
+    'LBL_HIDDEN' => '(NERODOMAS)', 
+  
+    // Fields
+    'Total Duration' => 'Trukmė (sek.)',
+    'Bill Duration'  => 'Apmokama trukmė (sek.)',
+    'Recording URL' => 'Įrašas',
+    
+    'SINGLE_PBXManager' => 'Skambučio įrašas' ,
+
 );

@@ -8,21 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD'=>'Pridėti laiško šabloną',
-	'SINGLE_EmailTemplates'=>'Laiško šablonas',
-	'LBL_EMAIL_TEMPLATES'=>'Laiškų šablonai',
-	'LBL_EMAIL_TEMPLATE'=>'Laiško šablonas',
+	'LBL_ADD_RECORD' => 'Pridėti laiško šabloną',
+	'SINGLE_EmailTemplates' => 'Laiško šablonas',
+	'LBL_EMAIL_TEMPLATES'=> 'Laiškų šablonai',
+	'LBL_EMAIL_TEMPLATE' => 'Laiško šablonas',
 	
-	'LBL_TEMPLATE_NAME'=>'Šablono pavadinimas',
-	'LBL_DESCRIPTION'=>'2 žingsnis: Pridėkite aprašymą',
-	'LBL_SUBJECT'=>'Tema ',
-	'LBL_GENERAL_FIELDS'=>'Pagrindiniai laukai',
-	'LBL_SELECT_FIELD_TYPE'=>'Pasirinkite lauko tipą',
+	'LBL_TEMPLATE_NAME' => 'Šablono pavadinimas',
+	'LBL_DESCRIPTION' => 'Aprašymas',
+	'LBL_SUBJECT' => 'Tema ',
+	'LBL_GENERAL_FIELDS' => 'Pagrindiniai laukai',
+	'LBL_SELECT_FIELD_TYPE' => 'Pasirinkite lauko tipą',
 	
 	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Tvarkyti pašto dėžutės modulio šablonus',
-	'Email Templates'=>'Laiškų šablonai',
-	'Template Name'=>'Šablono pavadinimas',
-	'Templatename'=>'Šablono pavadinimas',
-	'Message'=>'Pranešimas',
 	
 );

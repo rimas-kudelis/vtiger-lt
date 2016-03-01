@@ -8,40 +8,35 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_Project'=>'Projektas',
-	'LBL_ADD_RECORD'=>'Pridėti projektą',
-	'LBL_RECORDS_LIST'=>'Projektų sąrašas',
-
-	// Blocks
-	'LBL_PROJECT_INFORMATION'=>'Projekto išsami informacija',
-
-	//Field Labels
-	'Project Name'=>'Projekto pavadinimas',
-	'Start Date'=>'Pradžios data',
-	'Target End Date'=>'Tikslo pabaigos data',
-	'Actual End Date'=>'Tiksli pabaigos data',
-	'Project No'=>'Projekto numeris',
-	'Target Budget'=>'Siekiamas biudžetas',
-	'Project Url'=>'Projekto URL',
-	'Progress'=>'Progresas',
-
-	//Summary Information
-	'LBL_TASKS_OPEN'=>'Atviros užduotys',
-	'LBL_TASKS_DUE' => 'Užduoties terminas',
-	'LBL_TASKS_COMPLETED'=>'Įvykdytos užduotys',
-	'LBL_PEOPLE'=>'Žmonės',
-
-	//Related List
-	'LBL_CHARTS'=>'Diagramos',
-	'LBL_TASKS_LIST'=>'Užduočių sąrašas',
-	'LBL_MILESTONES'=>'Svarbiausi įvykiai',
-	'LBL_TASKS'=>'Užduotys',
-	'LBL_STATUS_IS'=>'Būsena yra',
-	'LBL_STATUS'=>'Būsena',
-	'LBL_TICKET_PRIORITY'=>'Prioritetas',
-	'LBL_MORE'=>'Daugiau...',
-	
-	//Summary View Widgets
-	'LBL_DOWNLOAD_FILE'=>'Parsisiųsti failą',
+	'Actual End Date' => 'Faktinė pabaigos data',
+	'LBL_ADD_RECORD' => 'Pridėti projektą',
+	'LBL_CHARTS' => 'Diagramos',
+	'LBL_DOWNLOAD_FILE' => 'Parsisiųsti failą',
+	'LBL_MILESTONES_LIST'          => 'Etapų sąrašas'             , 
+	'LBL_MILESTONES' => 'Etapai',
+	'LBL_MORE' => 'daugiau',
+	'LBL_PEOPLE' => 'Žmonės',
+	'LBL_PROJECT_INFORMATION' => 'Projekto informacija',
+	'LBL_RECORDS_LIST' => 'Projektų sąrašas',
+	'LBL_SELECT_PROGRESS'          => 'Pasirinkite progresą'             , 
+	'LBL_STATUS_IS' => 'Būsena yra',
+	'LBL_STATUS' => 'Būsena',
+	'LBL_TASKS_COMPLETED' => 'Įvykdytos užduotys',
+	'LBL_TASKS_DUE' => 'Vėluojančios užduotys',
+	'LBL_TASKS_HIGH'               => 'Aukštas prioritetas'               , 
+	'LBL_TASKS_LIST' => 'Užduočių sąrašas',
+	'LBL_TASKS_LOW'                => 'Žemas prioritetas'                , 
+	'LBL_TASKS_NORMAL'             => 'Vidutinis prioritetas'             , 
+	'LBL_TASKS_OPEN' => 'Atviros užduotys',
+	'LBL_TASKS_OTHER'              => 'Kiti prioritetai'            , 
+	'LBL_TASKS' => 'Užduotys',
+	'LBL_TICKET_PRIORITY' => 'Prioritetas',
+	'Progress' => 'Progresas',
+	'Project Name' => 'Projekto pavadinimas',
+	'Project No' => 'Projekto numeris',
+	'Project Url' => 'Projekto URL',
+	'SINGLE_Project' => 'Projektas',
+	'Start Date' => 'Pradžios data',
+	'Target Budget' => 'Numatomas biudžetas',
+	'Target End Date' => 'Numatoma pabaigos data',
 );

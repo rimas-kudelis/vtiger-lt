@@ -8,52 +8,39 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Potentials'=>'Galimybės',
-	'SINGLE_Potentials'=>'Galimybės',
-	'LBL_ADD_RECORD'=>'Pridėti galimybę',
-	'LBL_RECORDS_LIST'=>'Galimybių sąrašas',
-
-	// Blocks
-	'LBL_OPPORTUNITY_INFORMATION'=>'Galimybės informacija:',
-
-	//Field Labels
-	'Potential No'=>'Galimybės nr.',
-	'Amount'=>'Kiekis',
-	'Next Step'=>'Kitas žingsnis',
-	'Sales Stage'=>'Pardavimų būsena',
-	'Probability'=>'Tikimybė',
-	'Campaign Source'=>'Kampanijos šaltinis',
-	'Forecast Amount'=>'Prognozuojamas kiekis',
-	'Related To'=>'Organizacijos pavadinimas',
-	'Contact Name'=>'Adresato vardas',
-	
-	//Dashboard widgets
-	'Funnel'=>'Pardavimų piltuvėlis',
-	'Potentials by Stage'=>'Galimybės pagal lygmenį',
-	'Total Revenue'=>'Pajamos pagal pardavėją',
-	'Top Potentials'=>'Aukščiausio prioriteto galimybės',
-	'Forecast'=>'Pardavimų prognozė',
-
-	//Added for Existing Picklist Strings
-
-	'Prospecting' => 'Tyrimas',
-	'Qualification'=>'Kvalifikacija',
-	'Needs Analysis'=>'Poreikių analizė',
-	'Value Proposition'=>'Kainos pasiūlymas',
-	'Id. Decision Makers'=>'Identifikuoti sprendimų priėmėjus',
-	'Perception Analysis'=>'Kliento nuomonės analizė',
-	'Proposal/Price Quote'=>'Pasiūlymas',
-	'Negotiation/Review'=>'Derybos/Ataskaita',
-	'Closed Won'=>'Sėkmingai užbaigtas',
+	'Amount' => 'Kiekis',
+	'Campaign Source' => 'Kampanijos šaltinis',
 	'Closed Lost'=>'Nesėkmingai užbaigtas',
-
-	'--None--'=>'N',
+	'Closed Won'=>'Sėkmingai užbaigtas',
+	'Contact Name' => 'Adresato vardas',
 	'Existing Business'=>'Esamas verslas',
+	'Forecast Amount' => 'Prognozuojamas kiekis',
+	'Forecast' => 'Pardavimų prognozė',
+	'Funnel' => 'Pardavimų piltuvėlis',
+	'Id. Decision Makers'=>'Sprendimų priėmėjų identifikavimas',
+	'LBL_ADD_RECORD' => 'Pridėti galimybę',
+	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Laukiama užbaigimo data',
+	'LBL_OPPORTUNITY_INFORMATION' => 'Galimybės informacija',
+	'LBL_RECORDS_LIST' => 'Galimybių sąrašas',
+	'LBL_RELATED_CONTACTS' => 'Susiję adresatai',
+	'LBL_RELATED_PRODUCTS' => 'Susijusios prekės',
+	'Needs Analysis'=>'Poreikių analizė',
+	'Negotiation/Review'=>'Derybos/peržiūra',
 	'New Business'=>'Naujas verslas',
-	'LBL_EXPECTED_CLOSE_DATE_ON'=>'Laukiama užbaigimo data',
-
-	//widgets headers
-	'LBL_RELATED_CONTACTS'=>'Susiję adresatai',
-	'LBL_RELATED_PRODUCTS'=>'Susijusios prekės',
+	'Next Step' => 'Kitas žingsnis',
+	'--None--'=>'—Nieko—',
+	'Perception Analysis'=>'Įvaizdžio analizė',
+	'Potential No' => 'Galimybės Nr.',
+	'Potentials by Stage' => 'Galimybės pagal stadiją',
+	'Potentials' => 'Galimybės',
+	'Probability' => 'Tikimybė',
+	'Proposal/Price Quote'=>'Pasiūlymas',
+	'Prospecting'=>'Tyrimas',
+	'Qualification'=>'Kvalifikavimasis',
+	'Related To' => 'Organizacijos pavadinimas',
+	'Sales Stage' => 'Pardavimų būsena',
+	'SINGLE_Potentials' => 'Galimybė',
+	'Top Potentials' => 'Didžiausios galimybės',
+	'Total Revenue' => 'Pajamos pagal pardavėją',
+	'Value Proposition'=>'Naudos pasiūlymas',
 );

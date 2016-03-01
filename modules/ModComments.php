@@ -8,20 +8,13 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ModComments'=>'Pastaba',
-	'LBL_RECORDS_LIST'=>'Pastabos',
-
-	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION'=>'Pastabos',
-	'LBL_OTHER_INFORMATION'=>'Kia informacija',
-
-	'LBL_ADDING_COMMENT'=>'Komentarų pridėjimas',
-	'LBL_WRITE_YOUR_COMMENT_HERE'=>'Įveskite pastabas čia',
-	
-	//Field Labels
-	'Comment'=>'Pastaba',
-	'Creator'=>'Kūrėjas',
+	'Comment' => 'Pastaba',
+	'Creator' => 'Autorius',
+	'LBL_ADDING_COMMENT' => 'Pastaba pridedama',
+	'LBL_MODCOMMENTS_INFORMATION' => 'Pastabos',
+	'LBL_OTHER_INFORMATION' => 'Kita informacija',
+	'LBL_RECORDS_LIST' => 'Pastabos',
+	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Įveskite pastabas čia',
 	'Related To Comments' => 'Susiję su',
-	
+	'SINGLE_ModComments' => 'Pastaba',
 );

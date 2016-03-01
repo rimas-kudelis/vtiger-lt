@@ -7,8 +7,8 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  ************************************************************************************/
-$mod_strings = Array (
-'Mobile' => 'Mobilus telefonas',
+$mod_strings = array (
+'Mobile' => 'CRM mobiliesiems',
 
 );
 

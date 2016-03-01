@@ -9,21 +9,20 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-    'SMSNotifier'=>'Informavimas SMS žinute',
-	'LBL_SEND_SMS_TO_SELECTED_NUMBERS'=>'Siųsti žinutes visiems pažymėtiems',
-	'LBL_STEP_1'=>'1 žingsnis',
-	'LBL_STEP_2'=>'2 žingsnis',
-	'LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND'=>'Norėdami siųsti, pasirinkite telefono numerio lauką',
-	'LBL_TYPE_THE_MESSAGE'=>'Rašykite žinutę',
-	'LBL_WRITE_YOUR_MESSAGE_HERE'=>'rašykite savo žinutę čia',
-	'LBL_ADD_MORE_FIELDS'=>'Pridėti daugiau laukų',
-	'LBL_SERVER_CONFIG'=>'Serverio konfigūravimas',
+	'LBL_SEND_SMS_TO_SELECTED_NUMBERS' => 'Siųsti žinutę pasirinktais numeriais',
+	'LBL_STEP_1' => '1 žingsnis',
+	'LBL_STEP_2' => '2 žingsnis',
+	'LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND' => 'Pasirinkite telefono numerių laukus žinutėms siųsti',
+	'LBL_TYPE_THE_MESSAGE' => 'Įveskite žinutę',
+	'LBL_WRITE_YOUR_MESSAGE_HERE' => 'įveskite žinutę čia',
+	'LBL_ADD_MORE_FIELDS' => 'Pridėti daugiau laukų',
+	'LBL_SERVER_CONFIG' => 'Serverio konfigūravimas',
 
 	//DetailView Actions
-	'LBL_CHECK_STATUS'=>'Patikrinti būseną',
-	'message'=>'Pranešimas',
+	'LBL_CHECK_STATUS' => 'Patikrinti būseną',
+	'message' => 'Žinutė',
 
 	//Blocks
 	'LBL_SMSNOTIFIER_INFORMATION' => 'SMS žinutės infromacija',
-	'SINGLE_SMSNotifier'=>'Informavimas SMS žinute',
+	'SINGLE_SMSNotifier' => 'Informavimas SMS žinute',
 );

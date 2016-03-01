@@ -4,7 +4,7 @@
   <name>Lietuvių</name>
   <label>LT Lietuvių</label>
   <prefix>lt_lt</prefix>
-  <version>5.2</version>
+  <version>6.4</version>
   <dependencies>
     <vtiger_version>6.0.0</vtiger_version>
     <vtiger_max_version>6.*</vtiger_max_version>
@@ -19,8 +19,8 @@
  * the specific language governing rights and limitations under the License.
  ********************************************************************************
  *  Language     : Lietuvių
- *  Version      : 5.2
- *  Author       : VU MII
+ *  Version      : 6.4
+ *  Author       : VU MII, Rimas Kudelis
  ********************************************************************************
 ]]></inline>
   </license>

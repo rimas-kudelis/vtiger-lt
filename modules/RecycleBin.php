@@ -8,20 +8,20 @@
  * All Rights Reserved.
  ************************************************************************************/
 
-$languageStrings = Array(
-	'Recycle Bin'=>'Šiukšlinė',
-	'LBL_SELECT_MODULE'=>'Pasirinkite modulį',
-	'LBL_EMPTY_RECYCLEBIN'=>'Ištuštinti šiukšlinę',
-	'LBL_RESTORE'=>'Atkurti',
-	'LBL_NO_PERMITTED_MODULES'=>'Prieinamų modulių nėra',
+$languageStrings  = array(
+	'RecycleBin' => 'Šiukšlinė',
+	'LBL_SELECT_MODULE' => 'Pasirinkite modulį',
+	'LBL_EMPTY_RECYCLEBIN' => 'Ištuštinti šiukšlinę',
+	'LBL_RESTORE' => 'Atkurti',
+	'LBL_NO_PERMITTED_MODULES' => 'Galimų modulių nėra',
 	'LBL_RECORDS_LIST' => 'Šiukšlinės sąrašas',
-	'LBL_NO_RECORDS_FOUND'=>'Nėra jokių įrašų atkurti modulyje ',
+	'LBL_NO_RECORDS_FOUND' => 'Modulyje neaptikta jokių įrašų, kuriuos būtų galima atkurti',
 );
 
 $jsLanguageStrings = array(
-	'JS_MSG_EMPTY_RB_CONFIRMATION'=>'Ar tikrai norite visam laikui pašalinti visus šios įrašus iš duomenų bazės?',
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION'=>'Ar tikrai norite atkurti šiuos įrašus?',
-	'JS_RESTORING_RECORDS'=>'Atstatomi įrašai',
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Ar tikrai norite negrįžtamai pašalinti visus šiuos įrašus iš duomenų bazės?',
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Ar tikrai norite atkurti šiuos įrašus?',
+	'JS_RESTORING_RECORDS' => 'Įrašai atkuriami',
 );
 
 

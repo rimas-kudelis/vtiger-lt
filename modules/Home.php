@@ -8,21 +8,18 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Home Page Components
-	'ALVT'=>'Aukščiausio prioriteto organizacijos',
-	'PLVT'=>'Aukščiausio prioriteto galimybės',
+	'ALVT' => 'Aukščiausio prioriteto organizacijos',
+	'CVLVT' => 'Pagrindinė metrika',
+	'GRT' => 'Mano grupės išdėstymas',
+	'HDB' => 'Pradžios tinklalapio ataskaitos',
+	'HLT' => 'Aukščiausio prioriteto nesklandumų kortelės',
+	'Home'=> 'Pradžia',
+	'ILTI' => 'Didžiausios sąskaitos',
+	'LTFAQ' => 'Mano paskiausi DUK',
+	'OLTPO' => 'Didžiausi pirkimo užsakymai',
+	'OLTSO' => 'Didžiausi pardavimų užsakymai',
+	'PA' => 'Laukiančiosios veiklos',
+	'PLVT' => 'Didžiausios galimybės',
 	'QLTQ' => 'Stambiausi pasiūlymai',
-	'CVLVT'=>'Pagrindinė metrika',
-	'HLT'=>'Aukščiausio prioriteto nesklandumų kortelės',
-	'GRT'=>'Mano grupės išdėstymas',
-	'OLTSO'=>'Didžiausi pardavimų užsakymai',
-	'ILTI'=>'Didžiausios važtaražčio',
-	'HDB'=>'Pradinio puslapio ataskaitos',
-	'OLTPO'=>'Didžiausi pirkimo užsakymai',
-	'LTFAQ'=>'Mano paskiausi DUK',
-	'UA'=>'Būsimos veiklos',
-	'PA'=>'Laukiančiosios veiklos',
-    
-	'Key Metrics'=>'Pagrindinės metrikos',
-	'Tag Cloud'=>'Žymių debesis',
+	'UA' => 'Būsimos veiklos',
 );

@@ -8,68 +8,52 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'Leads'=>'Galimi klientai',
-	'SINGLE_Leads'=>'Galimas klientas',
-	'LBL_RECORDS_LIST'=>'Galimų klientų sąrašas',
-	'LBL_ADD_RECORD'=>'Pridėti galimą klientą',
-
-	// Blocks
-	'LBL_LEAD_INFORMATION'=>'Galimų klientų informacija',
-
-	//Field Labels
-	'Lead No'=>'Galimo kliento nr.',
-	'Company'=>'Įmonė',
-	'Designation'=>'Pavadinimas',
-	'Website'=>'Svetainė',
-	'Industry'=>'Pramonė',
-	'Lead Status'=>'Galimo kliento būsena',
-	'No Of Employees'=>'Darbuotojų skaičius',
-	'Phone'=>'Telefonas',
-	'Secondary Email'=>'Atsarginis el. paštas',
-	'Email'=>'Pradinis el. pašto adresas',
-
-	//Added for Existing Picklist Entries
-
-	'--None--'=>'N',
-	'Mr.'=>'Pone',
-	'Ms.'=>'Panele',
-	'Mrs.'=>'Ponia',
-	'Dr.'=>'Dr.',
-	'Prof.'=>'Prof.',
-
-	//Lead Status Picklist values
 	'Attempted to Contact'=>'Bandyta susisiekti',
-	'Cold'=>'Neįpareigojantis',
-	'Contact in Future'=>'Būsimas adresatas',
+	'CANNOT_CONVERT' => 'Negalima konvertuoti',
+	'Cold'=>'Neįsipareigojęs',
+	'Company' => 'Įmonė',
 	'Contacted'=>'Susisiekta',
+	'Contact in Future'=>'Būsimas adresatas',
+	'Designation' => 'Pavadinimas',
+	'Dr.'=>'Dr.',
+	'Email' => 'Pagrindinis el. paštas',
 	'Hot'=>'Karštas',
-	'Junk Lead'=>'Neaktualus galimas klientas',
-	'Lost Lead'=>'Prarastas galimas klientas',
+	'Industry' => 'Veiklos sritis',
+	'Junk Lead'=>'Užklausa – brukalas',
+	'LBL_ADD_RECORD' => 'Pridėti potencialų klientą',
+	'LBL_CONVERT_LEAD' => 'Konvertuoti potencialų klientą',
+	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Moduliai išjungti',
+	'LBL_CONVERT_LEAD_ERROR' => 'Jei norite konvertuoti potencialų klientą, turite įjungti Organizacijų arba Adresatų modulį.',
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'Redaguoti laukų susiejimą',
+	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Į galimas priežastis įeina:',
+	'LBL_LEAD_INFORMATION' => 'Potencialaus kliento informacija',
+	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Potencialių klientų laukų susiejimas neišbaigtas (Nuostatas > Modulių tvarkytuvė > Potencialūs klientai > Redaguoti laukų susiejimą)',
+	'LBL_LEADS_FIELD_MAPPING' => 'Redaguoti laukų susiejimą',
+	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Kai kurie privalomi laukai neužpildyti',
+	'LBL_RECORDS_LIST' => 'Potencialių klientų sąrašas',
+	'LBL_TRANSFER_RELATED_RECORD' => 'Perkelti susijusį įrašą į',
+	'Lead No' => 'Potencialaus kliento Nr.',
+	'Leads' => 'Potencialūs klientai',
+	'Lead Status' => 'Potencialaus kliento būsena',
+	'Lost Lead'=>'Prarastas potencialus klientas',
+	'Mr.'=>'Ponas',
+	'Mrs.'=>'Ponia',
+	'Ms.'=>'Panelė',
+	'--None--'=>'—Nieko—',
+	'No Of Employees' => 'Darbuotojų skaičius',
 	'Not Contacted'=>'Nesusisiekta',
+	'Phone' => 'Telefonas',
 	'Pre Qualified'=>'Prieš patikslinimą',
+	'Prof.'=>'Prof.',
 	'Qualified'=>'Patikslinta',
-	'Warm' => 'Šiltas',
-
-	// Mass Action
-	'LBL_CONVERT_LEAD'=>'Konvertuoti galimą klientą',
-
-	//Convert Lead
-	'LBL_TRANSFER_RELATED_RECORD'=>'Perkelti susijusius įrašus:',
-	'LBL_CONVERT_LEAD_ERROR'=>'Norėdami pakeisti galimą klientą turite įjungti organizaciją arba adresatą.',
-	'LBL_CONVERT_LEAD_ERROR_TITLE'=>'Moduliai išjungti',
-	'CANNOT_CONVERT'=>'Negalima konvertuoti',
-	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS'=>'Į galimas priežastis įeina:',
-	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE'=>'Jokie privalomi laukai neatvaizduojami',
-	'LBL_MANDATORY_FIELDS_ARE_EMPTY'=>'Kai kurie privalomieji laukai neužpildyti',
-	'LBL_LEADS_FIELD_MAPPING'=>'Galimų klientų laukų atvaizdavimas nebaigtas ( Nuostatos>Modulių tvarkyklė>Galimi klientai>Galimų klientų laukų atvaizdavimas)',
-
-	//Leads Custom Field Mapping
-	'LBL_CUSTOM_FIELD_MAPPING'=>'Redaguoti laukų atvaizdavimą',
-	'LBL_WEBFORMS'=>'Tinklaraščio formų nustatymai',
+	'Secondary Email' => 'Kitas el. paštas',
+	'SINGLE_Leads' => 'Potencialus klientas',
+	'Warm'=>'Šiltas',
+	'Website' => 'Svetainė',
 );
+
 $jsLanguageStrings = array(
-	'JS_SELECT_CONTACTS'=>'Norėdami tęsti pasirinkite adresatus',
-	'JS_SELECT_ORGANIZATION'=>'Norėdami tęsti pažymėkite organizaciją',
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD'=>'Konvertavimui reikia pažymėti adresatą ar Organizaciją'
+	'JS_SELECT_CONTACTS' => 'Jei norite tęsti, pasirinkite adresatus',
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Konvertavimui reikia pasirinkti adresatą ar organizaciją',
+	'JS_SELECT_ORGANIZATION' => 'Jei norite tęsti, pasirinkite organizaciją',
 );

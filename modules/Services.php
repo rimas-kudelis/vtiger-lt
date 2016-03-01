@@ -9,48 +9,36 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Services'=>'Paslaugos',
-	'SINGLE_Services'=>'paslaugą.',
-	'LBL_ADD_RECORD'=>'Pridėti paslaugą',
-	'LBL_RECORDS_LIST'=>'Paslaugų sąrašas',
+	'Services' => 'Paslaugos',
+	'SINGLE_Services' => 'Paslauga',
+	'LBL_ADD_RECORD' => 'Pridėti paslaugą',
+	'LBL_RECORDS_LIST' => 'Paslaugų sąrašas',
 
 	// Blocks
-	'LBL_SERVICE_INFORMATION'=>'Paslaugos išsami informacija',
+	'LBL_SERVICE_INFORMATION' => 'Paslaugos informacija',
 	
-	'LBL_MORE_CURRENCIES'=>'daugiau valiutų', 
-	'LBL_PRICES'=>'Paslaugos kaina',
-	'LBL_PRICE'=>'Kaina',
-	'LBL_RESET_PRICE'=>'Atstatyti kainą',
-	'LBL_RESET'=>'Atsisakyti',
+	'LBL_MORE_CURRENCIES' => 'daugiau valiutų', 
+	'LBL_PRICES' => 'Paslaugų kainos',
+	'LBL_PRICE' => 'Kaina',
+	'LBL_RESET_PRICE' => 'Atstatyti kainą',
+	'LBL_RESET' => 'Atstatyti',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS'=>'Įtrauktį į kainoraščius',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Įtraukti į kainynus',
 
 	//Field Labels
 	'Service Name'=>'Paslaugos pavadinimas',
-	'Service Active'=>'Aktyvus',
+	'Service Active'=>'Aktyvi',
 	'Service Category'=>'Kategorija',
-	'Service No'=>'Paslaugos nr.',
+	'Service No'=>'Paslaugos Nr.',
 	'Owner'=>'Savininkas',
-	'No of Units' => 'Vienetų skaičius',
+	'No of Units'=>'Vienetų skaičius',
 	'Commission Rate'=>'Komisinių kursas',
 	'Price'=>'Kaina',
-	'Usage Unit'=>'Naudojimosi vienetas',
-	'Tax Class'=>'Mokesčių klasė',
+	'Usage Unit'=>'Apskaitos vienetas',
+	'Tax Class'=>'Mokesčių grupė',
 	'Website'=>'Svetainė',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS'=>'Įtrauktį į kainoraščius',
-    
-    'VAT'=>'1VAT',
-    'Sales'=>'1Sales',
-    'Service'=>'1Service',
-    'Support'=>'1Support',
-    'Installation'=>'1Installation',
-    'Migration'=>'1Migration',
-    'Customization'=>'1Customization',
-    'Training'=>'1Training',
-    'Hours'=>'1Hours',
-    'Days'=>'1Days',
-    'Incidents'=>'1Incidents',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Įtraukti į kainynus',
 );

@@ -10,9 +10,10 @@
  ************************************************************************************/
 
 $languageStrings = array(
-    'LBL_RIGHT_CLICK_COPY'=>'Paspauskite dešinį klavišą ir kopijuokite'
+    'LBL_RIGHT_CLICK_COPY' => 'Spustelėkite dešinį pelės klavišą ir kopijuokite',
 );
+
 $jsLanguageStrings = array(
-	'JS_SAVED_SUCCESSFULLY'=>'Įrašyta sėkmingai',
-	'JS_DELETED_SUCCESSFULLY' => 'Pašalinta sėkmingai'
+	'JS_DELETED_SUCCESSFULLY' => 'Pašalinta sėkmingai',
+	'JS_SAVED_SUCCESSFULLY' => 'Įrašyta sėkmingai',
 );	

@@ -8,20 +8,16 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks'=>'Tvarkaraštis',
-
-	//Basic Field Names
-	'Id'=>'ID ',
 	'Cron Job' => 'Periodinis darbas',
-	'Frequency'=>'Dažnis',
-	'Status'=>'Būsena',
-	'Last Start'=>'Paskutinis skenavinmas pradėtas',
-	'Last End'=>'Paskutinis skenavinmas baigtas',
-	'Sequence'=>'Seka',
-
-	//Actions
-	'LBL_COMPLETED'=>'Žymėti kaip užbaigtą',
-	'LBL_RUNNING'=>'Veikia',
-	'LBL_ACTIVE'=>'Aktyvus',
-	'LBL_INACTIVE'=>'Tarp aktyvių',
+	'CronTasks' => 'Tvarkaraštis',
+	'Frequency' => 'Periodiškumas',
+	'Id' => 'ID ',
+	'Last End' => 'Paskutinis skenavimas baigtas',
+	'Last Start' => 'Paskutinis skenavimas pradėtas',
+	'LBL_ACTIVE' => 'Aktyvus',
+	'LBL_COMPLETED' => 'Užbaigtas',
+	'LBL_INACTIVE' => 'Neaktyvus',
+	'LBL_RUNNING' => 'Vykdomas',
+	'Sequence' => 'Seka',
+	'Status' => 'Būklė',
 );

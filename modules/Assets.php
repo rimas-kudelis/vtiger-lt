@@ -9,28 +9,28 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Assets'=>'Turtas',
-	'SINGLE_Assets'=>'Turtas',
-	'LBL_ADD_RECORD'=>'Pridėti turtą',
-	'LBL_RECORDS_LIST'=>'Turto sąrašas',
+	'Assets'        => 'Turtas',
+	'SINGLE_Assets' => 'Turtas',
+	'LBL_ADD_RECORD' => 'Pridėti turtą',
+	'LBL_RECORDS_LIST' => 'Turto sąrašas',
 
 	// Blocks
-	'LBL_ASSET_INFORMATION'=>'Turto išsami informacija',
+	'LBL_ASSET_INFORMATION' => 'Turto išsami informacija',
 
 	//Field Labels
-    'Asset No'=>'Turto nr',
-	'Serial Number'=>'Serijos numeris',
-	'Date Sold'=>'Pardavimo data',
-	'Date in Service'=>'Palaikymo data',
-	'Tag Number'=>'Žymės numeris',
-	'Invoice Name'=>'Važtaraščio pavadinimas',
-	'Shipping Method'=>'Pristatymo būdas',
-	'Shipping Tracking Number'=>'Pristatymo sekimo numeris',
-	'Asset Name'=>'Turto pavadinimas',
-	'Customer Name'=>'Kliento pavadinimas',
-	'Notes'=>'Pastabos',
+    'Asset No' => 'Turto Nr.',
+	'Serial Number' => 'Serijos numeris',
+	'Date Sold' => 'Pardavimo data',
+	'Date in Service' => 'Palaikymo data',
+	'Tag Number' => 'Žymės numeris',
+	'Invoice Name' => 'Pavadinimas sąskaitoje',
+	'Shipping Method' => 'Pristatymo būdas',
+	'Shipping Tracking Number' => 'Siuntos numeris',
+	'Asset Name' => 'Turto pavadinimas',
+	'Customer Name' => 'Kliento pavadinimas',
+	'Notes' => 'Pastabos',
 
 	/*picklist values*/
-	'In Service' => 'Palaikoma',
+	'In Service'=>'Palaikoma',
 	'Out-of-service'=>'Nebedirba',
 );

@@ -8,21 +8,21 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD'=>'Nauja konfigūracija',
-	'SMSNotifier'=>'SMS žinučių tiekėjo konfigūracija',
-	'LBL_ADD_CONFIGURATION'=>'Nauja konfigūracija',
-	'LBL_EDIT_CONFIGURATION'=>'Redaguoti konfigūraciją',
-	'LBL_SELECT_ONE'=>'Pažymėti vieną',
+	'LBL_ADD_RECORD' => 'Naujas paslaugos teikėjas',
+	'SMSNotifier' => 'SMS paslaugos teikėjų konfigūracija',
+	'LBL_ADD_CONFIGURATION' => 'Naujas SMS paslaugos teikėjas',
+	'LBL_EDIT_CONFIGURATION' => 'Paslaugos teikėjo redagavimas',
+	'LBL_SELECT_ONE' => 'Pasirinkite vieną',
 	
 	//Fields
-	'providertype'=>'Tiekėjas',
-	'isactive'=>'Aktyvus',
-	'username' => 'Vartotojo vardas',
-	'password'=>'Slaptažodis',
+	'providertype' => 'Operatorius',
+	'isactive' => 'Aktyvus',
+	'username' => 'Abonento vardas',
+	'password' => 'Slaptažodis',
 );
 
 $jsLanguageStrings = array(
-	'LBL_DELETE_CONFIRMATION'=>'Ar tikrai norite pašalinti šią informavimo žinute taisyklę?',
-	'JS_RECORD_DELETED_SUCCESSFULLY'=>'SMS žinučių tiekėjas pašalintas sėkmingai',
-	'JS_CONFIGURATION_SAVED'=>'SMS žinučių tiekėjo konfigūracija įrašyta',
+	'LBL_DELETE_CONFIRMATION' => 'Ar tikrai norite pašalinti šį paslaugos teikėją',
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'SMS paslaugos teikėjas pašalintas sėkmingai',
+	'JS_CONFIGURATION_SAVED' => 'SMS paslaugos teikėjas įrašytas',
 );	

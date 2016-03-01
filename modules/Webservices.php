@@ -10,8 +10,8 @@
   ********************************************************************************/
 
 $languageStrings = array(
-	'LBL_INVALID_OLD_PASSWORD' => 'Neteisingai įrašytas buvęs slaptažodis',
-	'LBL_NEW_PASSWORD_MISMATCH'=>"New Password and confirm password don't match",
-	'LBL_DATABASE_QUERY_ERROR'=>'Duomenų bazės klaida vykdant užklausą',
-	'LBL_CHANGE_PASSWORD_FAILURE'=>'Nepavyko pakeisti slaptažodžio',
+	'LBL_CHANGE_PASSWORD_FAILURE' => 'Nepavyko pakeisti slaptažodžio',
+	'LBL_DATABASE_QUERY_ERROR' => 'Duomenų bazės klaida vykdant užklausą',
+	'LBL_INVALID_OLD_PASSWORD' => 'Pateiktas neteisingas senas slaptažodis.',
+	'LBL_NEW_PASSWORD_MISMATCH' => "Nesutampa naujasis slaptažodis ir jo pakartojimas.",
 );

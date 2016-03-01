@@ -8,17 +8,14 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'SINGLE_ProjectMilestone'=>'Projekto svarbiausias įvykis',
-	'LBL_ADD_RECORD'=>'Pridėti projekto svarbiausią įvykį',
-	'LBL_RECORDS_LIST'=>'Projekto svarbiausių įvykių sąrašas',
-
-	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION'=>'Projekto svarbiausio įvykio išsami nformacija',
-	
-	//Field Labels
-	'Project Milestone Name'=>'Projekto svarbiausio įvykio pavadinimas',
-	'Milestone Date' => 'Svarbiausio įvykio data',
-	'Project Milestone No'=>'Projekto svarbiausio įvykio numeris',
-	
+	'LBL_ADD_RECORD' => 'Pridėti projekto etapą',
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Projekto etapo informacija',
+	'LBL_RECORDS_LIST' => 'Projekto etapų sąrašas',
+	'Milestone Date' => 'Etapo pabaigos data',
+	'Project Milestone Name' => 'Projekto etapo pavadinimas',
+	'Project Milestone No' => 'Projekto etapo numeris',
+	'SINGLE_ProjectMilestone' => 'Projekto etapas',
+        'LBL_PROJECTS_LIST' => 'Projektų sąrašas',
+        'LBL_TASKS_LIST' => 'Užduočių sąrašas',
+        'LBL_MILESTONES_LIST' => 'Etapų sąrašas'
 );

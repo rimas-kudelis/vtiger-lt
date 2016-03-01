@@ -8,25 +8,25 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal'=>'Klientų portalas',
-	'LBL_PORTAL_DESCRIPTION'=>'Nustatykite portalo vartotojo privilegijas',
+	'CustomerPortal' => 'Klientų portalas',
+	'LBL_PORTAL_DESCRIPTION' => 'Nustatykite portalo abonento teises',
 
-	'LBL_PRIVILEGES'=>'Privilegijos',
-	'LBL_DEFAULT_ASSIGNEE'=>'Numatytasis įgaliotinis',
-	'LBL_PORTAL_URL'=>'Portalo URL',
+	'LBL_PRIVILEGES' => 'Teisės',
+	'LBL_DEFAULT_ASSIGNEE' => 'Numatytasis įgaliotinis',
+	'LBL_PORTAL_URL' => 'Portalo URL',
 
 	//Fields
-	'LBL_MODULE_NAME'=>'Organizacijos',
-	'LBL_ENABLE_MODULE'=>'Įjungti modulį',
-	'LBL_VIEW_ALL_RECORDS'=>'Peržiūrėti organizacijų įrašus',
+	'LBL_MODULE_NAME' => 'Modulio pavadinimas',
+	'LBL_ENABLE_MODULE' => 'Įjungti modulį',
+	'LBL_VIEW_ALL_RECORDS' => 'Organizacijos įrašų peržiūra',
 
 	//Messages
-	'LBL_PREVILEGES_MESSAGE'=>"This Role's privileges will be applied to the Portal User.",
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE'=>'Kortelės bus priskirtos vartotojams pagal numatytąjį planą Grupė/Vartotojas iš klientų portalo.',
-	'LBL_PORTAL_URL_MESSAGE' => 'Šis URL yra portalo, kuriame Jūsų adresatai gali prisijungti ir pateikti/sekti korteles, pasiekti informacijos bazę, atlikti kitus veiksmus. Kai bus įgalinta portalo prieiga, adresatams bus išsiųsti prisijungimo duomenys pateikti adresatų išsamios informacijos puslapyje.',
-	'LBL_DRAG_AND_DROP_MESSAGE'=>'Tempkite modulius norėdami pertvarkyti klientų portalą.',
+	'LBL_PREVILEGES_MESSAGE' => "Portalo abonentai turės šiam vaidmeniui suteiktas teises.",
+	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Užduočių korteles šiam asmeniui priskirs klientų portalo numatytoji grupė / naudotojas.',
+	'LBL_PORTAL_URL_MESSAGE' => 'Tai – URL portalo, prie kurio galės jungtis jūsų klientai, kai nori sukurti ar stebėti užduočių korteles, prieiti prie žinyno ir atlikti kitus veiksmus. Prisijungimo prie Portalo duomenys kiekvienam adresatui bus išsiunčiami, jo profilyje jam suteikus Portalo prieigos teisę.',
+	'LBL_DRAG_AND_DROP_MESSAGE' => 'Tempkite modulius, jei norite pertvarkyti klientų portalą',
 );
 
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED'=>'Klientų portalo nuostatos įrašytos',
+	'JS_PORTAL_INFO_SAVED' => 'Klientų portalo nuostatos įrašytos',
 );
