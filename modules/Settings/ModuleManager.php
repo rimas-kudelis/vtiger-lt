@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	'LBL_IMPORT_MODULE' => 'Importuoti modulį',
-	'LBL_VTIGER_EXTENSION_STORE' => '„Vtiger“ priedų parduotuvė',
+	'LBL_VTIGER_EXTENSION_STORE' => '„Vtiger“ priedų krautuvė',
 	'LBL_PUBLISHER' => 'Leidėjas',
 	'LBL_LICENSE' => 'Licencija',
 	'LBL_PUBLISHED_ON' => 'Paskelbtas',
@@ -40,7 +40,7 @@ $languageStrings = array(
 	'LBL_INVALID_IMPORT_TRY_AGAIN' => 'pateiktas moduliui importuoti. Bandykite dar kartą.',
 	'LBL_IMPORTED_MODULE' => 'modulis importuotas sėkmingai.',
 	'LBL__IMPORTING_MODULE' => 'Modulis importuojamas',
-        'LBL_EXTENSION_STORE' => 'Priedų parduotuvė',
+        'LBL_EXTENSION_STORE' => 'Priedų krautuvė',
         'LBL_ACCEPT_WITH_THE_DISCLAIMER' => 'Aš sutinku su sąlygomis ir norėčiau tęsti',
         'LBL_INSTALL_FROM_ZIP' => 'Įdiegti iš Zip failo',
         'LBL_DELETE_EXIST_DIRECTORY' => 'Prieš tęsdami modulio importą, pašalinkite egzistuojantį modulio aplanką',
