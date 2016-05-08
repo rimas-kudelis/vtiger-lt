@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <module>
   <type>language</type>
-  <name>Lietuvių</name>
+  <name>Lithuanian</name>
   <label>LT Lietuvių</label>
   <prefix>lt_lt</prefix>
   <version>6.4</version>
