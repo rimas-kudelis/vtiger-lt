@@ -4,10 +4,10 @@
   <name>Lithuanian</name>
   <label>LT Lietuvių</label>
   <prefix>lt_lt</prefix>
-  <version>6.4.0.1</version>
+  <version>6.99.1</version>
   <dependencies>
-    <vtiger_version>6.4.0</vtiger_version>
-    <vtiger_max_version>6.*</vtiger_max_version>
+    <vtiger_version>7.0.0</vtiger_version>
+    <vtiger_max_version>7.*</vtiger_max_version>
   </dependencies>
   <license>
    <inline><![CDATA[
@@ -19,8 +19,8 @@
  * the specific language governing rights and limitations under the License.
  ********************************************************************************
  *  Language     : Lietuvių
- *  Version      : 6.4
- *  Author       : VU MII, Rimas Kudelis
+ *  Version      : 7.0.0
+ *  Author       : VU MII, Rimas Kudelis, Andrius Ulrikas
  ********************************************************************************
 ]]></inline>
   </license>

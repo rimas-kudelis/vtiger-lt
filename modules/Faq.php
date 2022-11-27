@@ -8,19 +8,27 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
+	'Faq' => 'DUK',
+	'SINGLE_Faq' => 'DUK',
+	'LBL_RECORDS_LIST' => 'DUK sąrašas',
+	'LBL_ADD_RECORD' => 'Pridėti DUK',
+
+	//Blocks
+	'LBL_FAQ_INFORMATION' => 'DUK informacija',
+	'LBL_COMMENT_INFORMATION' =>  'Pastabos',
+
+	//Fields
+	'Question'=>'Klausimas',
 	'Answer'=>'Atsakymas',
 	'Comments'=>'Pastabos',
-	'Draft'=>'Juodraštis',
-	'Faq' => 'DUK',
 	'Faq No' => 'DUK numeris',
+
+	//Added for existing Picklist Entries
 	'General'=>'Bendri',
-	'LBL_ADD_RECORD' => 'Pridėti DUK',
-	'LBL_COMMENT_INFORMATION' =>  'Pastabų informacija',
-	'LBL_FAQ_INFORMATION' => 'DUK informacija',
-	'LBL_RECORDS_LIST' => 'DUK sąrašas',
-	'LBL_SOLUTION' => 'Sprendimas',
-	'Obsolete'=>'Pasenęs',
+	'Draft'=>'Juodraštis',
 	'Published'=>'Paskelbtas',
-	'Question'=>'Klausimas',
-	'SINGLE_Faq' => 'DUK',
+	'Obsolete'=>'Pasenęs',
+
+	//EditView
+	'LBL_SOLUTION' => 'Sprendimas',
 );

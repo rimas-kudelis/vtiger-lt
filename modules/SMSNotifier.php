@@ -9,6 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
+	'SMSNotifier'=>'SMS Notifier',
 	'LBL_SEND_SMS_TO_SELECTED_NUMBERS' => 'Siųsti žinutę pasirinktais numeriais',
 	'LBL_STEP_1' => '1 žingsnis',
 	'LBL_STEP_2' => '2 žingsnis',

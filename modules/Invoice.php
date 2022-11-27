@@ -8,31 +8,44 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'AutoCreated'=>'Automatiškai sukurta',
-	'Cancel' => 'Atsisakyti',
-	'Credit Invoice'=>'Kreditinė sąskaita faktūra',
+    
+    'Invoice'   =>  'Sąskaitos faktūros',
+	//DetailView Actions
+	'SINGLE_Invoice' => 'Sąskaita faktūra',
+	'LBL_EXPORT_TO_PDF' => 'Eksportuoti kaip PDF',
+    'LBL_SEND_MAIL_PDF' => 'Siųsti laišką su PDF failu',
+
+	//Basic strings
+	'LBL_ADD_RECORD' => 'Pridėti sąskaitą faktūrą',
+	'LBL_RECORDS_LIST' => 'Sąskaitų faktūrų sąrašas',
+
+	// Blocks
+	'LBL_INVOICE_INFORMATION' => 'Sąskaitos faktūros informacija',
+
+	//Field labels
+	'Sales Order' => 'Pardavimo užsakymas',
 	'Customer No' => 'Kliento Nr.',
 	'Invoice Date' => 'Sąskaitos faktūros data',
-	'Invoice No' => 'Sąskaitos faktūros Nr.',
-	'LBL_ACTION'	=> 'Veiksmas',
-	'LBL_ADD_RECORD' => 'Pridėti sąskaitą faktūrą',
-	'LBL_BALANCE' => 'Likutis',
-	'LBL_EXPORT_TO_PDF' => 'Eksportuoti kaip PDF',
-	'LBL_INVOICE_INFORMATION' => 'Sąskaitos faktūros informacija',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'yra pašalinta iš sistemos. Pašalinkite šį elementą ar pakeiskite kitu',
-	'LBL_NOT_A_BUNDLE' => 'Ne rinkinys',
-	'LBL_RECEIVED' => 'Gauta',
-	'LBL_RECORDS_LIST' => 'Sąskaitų faktūrų sąrašas',
-	'LBL_SEND_MAIL_PDF' => 'Siųsti laišką su PDF failu',
-	'LBL_SUB_PRODUCTS'	=> 'Rinkinio sudėtis',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Šis elementas buvo pašalintas iš sistemos. Prašome pašalinti jo nuorodą.',
-	'LBL_THIS' => 'Šis',
-	'Paid'=>'Apmokėta',
 	'Purchase Order' => 'Pirkimo užsakymas',
 	'Sales Commission' => 'Pardavimo komisiniai',
-	'Sales Order' => 'Pardavimo užsakymas',
+	'Invoice No' => 'Sąskaitos faktūros Nr.',
+	'LBL_RECEIVED' => 'Gauta',
+	'LBL_BALANCE' => 'Likutis',
+	//Added for existing Picklist Entries
+
 	'Sent'=>'Išsiųsta',
-	'SINGLE_Invoice' => 'Sąskaita faktūra',
+	'Credit Invoice'=>'Kreditinė sąskaita faktūra',
+	'Paid'=>'Apmokėta',
+	'AutoCreated'=>'Automatiškai sukurta',
+	'Cancel' => 'Atsisakyti',
+	
+	//Translation for product not found
+	'LBL_THIS' => 'Šis',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'yra pašalinta iš sistemos. Pašalinkite šį elementą ar pakeiskite kitu',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Šis elementas buvo pašalintas iš sistemos. Prašome pašalinti jo nuorodą.',
+	'LBL_NOT_A_BUNDLE' => 'Ne rinkinys',
+	'LBL_SUB_PRODUCTS'	=> 'Rinkinio sudėtis',
+	'LBL_ACTION'	=> 'Veiksmas',
 );
 
 $jsLanguageStrings = array(

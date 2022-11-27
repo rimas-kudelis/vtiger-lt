@@ -1,5 +1,4 @@
 <?php
-
 /* +***********************************************************************************
  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
  * ("License"); You may not use this file except in compliance with the License
@@ -12,11 +11,14 @@
 $languageStrings = array(
 	'ERR_DATABASE_CONNECTION_FAILED' => 'Nepavyko prisijungti prie duomenų bazės serverio',
 	'ERR_DB_NOT_FOUND' => 'Nepavyko rasti šios duomenų bazės. Pabandykite pakeisti duomenų bazės nuostatas',
+	'ERR_DB_NOT_UTF8'  => 'Database charset or collation not compatible with UTF8',
 	'ERR_INVALID_MYSQL_PARAMETERS' => 'Nurodyti netinkami „MySQL“ ryšio parametrai',
 	'ERR_INVALID_MYSQL_VERSION' => 'Ši „MySQL“ versija nepalaikoma, atnaujinkite į versiją „MySQL 5.1.x“ ar aukštesnę ',
 	'ERR_UNABLE_CREATE_DATABASE' => 'Nepavyko sukurti duomenų bazės',
+	'ERR_DB_SQLMODE_NOTFRIENDLY' => 'MySQL Server should be configured with:<br> sql_mode = ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION',
 	'LBL_ADMIN_INFORMATION'=>'Administratoriaus informacija',
 	'LBL_ADMIN_USER_INFORMATION' => 'Administratoriaus informacija',
+	'LBL_CHOOSE_LANGUAGE' => 'Pasirinkite numatytąją kalbą šiam įrenginiui:',
 	'LBL_CONFIRM_CONFIGURATION_SETTINGS' => 'Patvirtinti nuostatas',
 	'LBL_CREATE_NEW_DB'=>'Sukurti naują duomenų bazę',
 	'LBL_CURRENCIES'=>'Valiuta',
@@ -57,15 +59,17 @@ $languageStrings = array(
 	'LBL_TRUE' => 'Įgalintas',
 	'LBL_URL' => 'URL',
 	'LBL_USERNAME' => 'Naudotojo vardas',
-	'LBL_VTIGER6_SETUP_WIZARD_DESCRIPTION' => 'Šis diegimo vedlys jums padės įdiegti „Vtiger 6“ programą',
-	'LBL_WELCOME_TO_VTIGER6_SETUP_WIZARD' => 'Sveiki, čia „Vtiger 6“ diegimo vedlys',
+	'LBL_VTIGER7_SETUP_WIZARD_DESCRIPTION' => 'Šis vedlys padės jums įdiegti Vtiger CRM 7',
+	'LBL_WELCOME_TO_VTIGER7_SETUP_WIZARD' => 'Sveiki atvykę į Vtiger CRM 7 sąrankos vedlį',
 	'LBL_WELCOME' => 'Sveiki!',
 	'LBL_ZLIB_SUPPORT' => '„Zlib“ palaikymas',
+	'LBL_SIMPLEXML' => 'SimpleXML Support',
 	'MSG_DB_PARAMETERS_INVALID' => 'nurodytas duomenų bazės tipas, serverio vardas, prievado numeris, naudotojo vardas arba slaptažodis netiko',
 	'MSG_DB_ROOT_USER_NOT_AUTHORIZED' => 'Pranešimas: nurodytas duomenų bazės administratorius neturi teisių kurti duomenų bazes, arba duomenų bazės pavadinimas turi specialiųjų simbolių. Pabandykite pakeisti duomenų bazės nuostatas.',
 	'MSG_DB_USER_NOT_AUTHORIZED' => 'nurodytas duomenų bazės naudotojas neturi teisės jungtis prie duomenų bazės serverio iš šio kompiuterio',
 	'MSG_LIST_REASONS' => 'Taip galėjo nutikti dėl šių priežasčių',
-        'LBL_MYSQLI_CONNECT_SUPPORT'=>'„mysqli“ palaikymas',
-        'LBL_OPEN_SSL'=>'„openssl“ palaikymas',
-        'LBL_CURL'=>'„cURL“ palaikymas',
+	'LBL_MYSQLI_CONNECT_SUPPORT'=>'Mysqli support',
+	'LBL_OPEN_SSL'=>'Openssl support',
+	'LBL_CURL'=>'Curl support',
+	'LBL_MB_STRING'=>'Mbstring support',
 );

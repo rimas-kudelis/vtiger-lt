@@ -8,14 +8,20 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Pridėti kainyną',
-	'LBL_ADD_TO' => 'Pridėti į',
-	'LBL_EDIT_LIST_PRICE' => 'Redaguoti kainyno kainą',
-	'LBL_PRICEBOOK_INFORMATION' => 'Kainyno informacija',
-	'LBL_RECORDS_LIST' => 'Kainynų sąrašas',
-	'LBL_UNIT_PRICE' => 'Vieneto kaina',
-	'Price Book Name' => 'Kainyno pavadinimas',
-	'PriceBook No' => 'Kainyno Nr.',
+	// Basic Strings
 	'PriceBooks' => 'Kainynai',
 	'SINGLE_PriceBooks' => 'Kainynas',
+	'LBL_ADD_RECORD' => 'Pridėti kainyną',
+	'LBL_RECORDS_LIST' => 'Kainynų sąrašas',
+
+	// Blocks
+	'LBL_PRICEBOOK_INFORMATION' => 'Kainyno informacija',
+	'LBL_EDIT_LIST_PRICE' => 'Redaguoti kainyno kainą',
+
+	//Field Labels
+	'Price Book Name' => 'Kainyno pavadinimas',
+	'PriceBook No' => 'Kainyno Nr.',
+
+	'LBL_UNIT_PRICE' => 'Vieneto kaina',
+	'LBL_ADD_TO' => 'Pridėti į',
 );

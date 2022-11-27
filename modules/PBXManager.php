@@ -8,7 +8,14 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	
+	'Asterisk' => 'Žvaigždutė',
+	'Call From'=>'Skambinta iš',
+	'Call To'=>'Skambinta į',
+	'LBL_CALL_INFORMATION' => 'Skambučio informacija',
+	'PBXManager ID'=>'PFM vadybininko ID',
+	'PBXManager' => 'PFM vadybininkas',
+	'SINGLE_PBXManager' => 'PFM vadybininkas',
+	'Time Of Call'=>'Skambučio laikas',
     //Blocks
     'LBL_PBXMANAGER_INFORMATION' => 'Skambučio informacija',
     'LBL_CUSTOM_INFORMATION'=>'Papildoma informacija',
@@ -28,6 +35,6 @@ $languageStrings = array(
     'Bill Duration'  => 'Apmokama trukmė (sek.)',
     'Recording URL' => 'Įrašas',
     
-    'SINGLE_PBXManager' => 'Skambučio įrašas' ,
+    'SINGLE_PBXManager' => 'PFM vadybininkas' ,
 
 );

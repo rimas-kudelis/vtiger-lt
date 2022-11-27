@@ -42,6 +42,13 @@ $languageStrings = array(
 	'LBL_ASSIGN_USERS' => 'Naudotojų priskyrimas',
     'LBL_ASSIGN_ROUND_ROBIN' => 'Naudotojus priskirti cikliškai',
     'LBL_ROUNDROBIN_USERS_LIST' => 'Priskiriamų naudotojų sąrašas',
+    'LBL_ADD_RECORD' => 'Pridėti žiniatinklio formą',
+	'LBL_UPLOAD_DOCUMENTS' => 'Upload Documents',
+	'LBL_ADD_FILE_FIELD' => 'File Upload Field',
+	'LBL_FIELD_LABEL' => 'Document Title',
+	'LBL_FILE_FIELD_INFO' => 'For each file uploaded from web form, a new Document is created with the attached file. Document is also linked to this newly created %s.',
+	'LBL_NO_FILE_FIELD' => 'No file fields added.',
+	'LBL_COPY_TO_CLIPBOARD' => 'Copy to clipboard',
 );
 $jsLanguageStrings = array(
 	'JS_WEBFORM_DELETED_SUCCESSFULLY' => 'Saityno forma pašalinta sėkmingai',
@@ -52,4 +59,7 @@ $jsLanguageStrings = array(
 	'JS_REFERENCE_FIELDS_CANT_BE_MANDATORY_WITHOUT_OVERRIDE_VALUE' => 'Laukai–nuorodos negali būti privalomi, nenurodžius priverstinės reikšmės',
 	'JS_TYPE_TO_SEARCH' => 'Rašykite paieškai vykdyti',
 	"JS_WEBFORM_WITH_THIS_NAME_ALREADY_EXISTS" => 'Saityno forma tokiu pavadinimu jau egzistuoja',
+	'JS_MAX_FILE_FIELDS_LIMIT' => 'Maximum you can add %s file fields.',
+	'JS_COPIED_SUCCESSFULLY' => 'Copied successfully.',
+	'JS_COPY_FAILED' => 'Copy failed. Please copy manually.',
 );

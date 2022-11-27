@@ -8,57 +8,64 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Actual Cost' => 'Galutinė kaina',
-	'Actual Response Count' => 'Galutinis atsakymų skaičius',
-	'Actual ROI' => 'Galutinė investicijų grąža',
-	'Actual Sales Count' => 'Galutinis pardavimų skaičius',
-	'Advertisement'=>'Reklama',
-	'Average'=>'Vidutiniškas',
-	'Banner Ads'=>'Reklamjuostės',
-	'Budget Cost' => 'Biudžeto išlaidos',
-	'Campaign Name' => 'Kampanijos pavadinimas',
-	'Campaign No' => 'Kampanijos Nr.', 
+	// Basic Strings
 	'Campaigns' => 'Kampanijos ',
-	'Campaign Status' => 'Kampanijos būsena',
-	'Campaign Type' => 'Kampanijos tipas', 
-	'Cancelled'=>'Atšaukta',							      
-	'Completed'=>'Užbaigta',
-	'Contacted - Never Contact Again' => 'Susisiekta – daugiau nebesusisiekti',
-	'Contacted - Successful' => 'Susisiekta – sėkmingai',
-	'Contacted - Unsuccessful' => 'Susisiekta – nesėkmingai',
-	'Direct Mail'=>'Tiesioginis laiškas',
-	'Excellent'=>'Puikus',
-	'Expected Response Count' => 'Laukiamų atsakymų skaičius',
-	'Expected Response' => 'Laukiamas atsakymas',
-	'Expected Revenue' => 'Laukiamos pajamos',
-	'Expected ROI' => 'Laukiama investicijų grąža',
-	'Expected Sales Count' => 'Laukiamų pardavimų skaičius',
-	'Good'=>'Geras',
-	'Inactive'=>'Neaktyvi',
+	'SINGLE_Campaigns' => 'Kampanija',
 	'LBL_ADD_RECORD' => 'Pridėti kampaniją',
+	'LBL_RECORDS_LIST' => 'Kampanijų sąrašas',
+
+	// Blocks
 	'LBL_CAMPAIGN_INFORMATION' => 'Kampanijos informacija',
 	'LBL_EXPECTATIONS_AND_ACTUALS' => 'Lūkesčiai ir faktai',
-	'LBL_RECORDS_LIST' => 'Kampanijų sąrašas',
-	'--None--'=>'—Nieko—',
-	'Num Sent' => 'Išsiųstų skaičius',
-	'Others'=>'Kitas',
-	'Planning'=>'Planuojama',						      	    
-	'Poor'=>'Silpnas',
+
+	//Field Labels
+	'Campaign Name' => 'Kampanijos pavadinimas',
+	'Campaign No' => 'Kampanijos Nr.', 
+	'Campaign Type' => 'Kampanijos tipas', 
 	'Product' => 'Prekė',
-	'Referral Program'=>'Kreipimosi programa',
-	'SINGLE_Campaigns' => 'Kampanija',
+	'Campaign Status' => 'Kampanijos būsena',
+	'Num Sent' => 'Išsiųstų skaičius',
 	'Sponsor' => 'Rėmėjas',
 	'Target Audience' => 'Tikslinė publika',
 	'TargetSize' => 'Tikslo dydis',
-	'Telemarketing'=>'Telemaketingas',
+	'Expected Response' => 'Laukiamas atsakymas',
+	'Expected Revenue' => 'Laukiamos pajamos',
+	'Budget Cost' => 'Biudžeto išlaidos',
+	'Actual Cost' => 'Galutinė kaina',
+	'Expected Response Count' => 'Laukiamų atsakymų skaičius',
+	'Expected Sales Count' => 'Laukiamų pardavimų skaičius',
+	'Expected ROI' => 'Laukiama investicijų grąža',
+	'Actual Response Count' => 'Galutinis atsakymų skaičius',
+	'Actual Sales Count' => 'Galutinis pardavimų skaičius',
+	'Actual ROI' => 'Galutinė investicijų grąža',
+
+	//Added for existing Picklist Entries
+
 	'Webinar'=>'Saityno seminaras',
-    
-         //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-         //campaignstatus picklist values 
-        'Planning'=>'Planuojama', 
-        'Active'=>'Aktyvi'
+	'Referral Program'=>'Kreipimosi programa',
+	'Advertisement'=>'Reklama',
+	'Banner Ads'=>'Reklamjuostės',
+	'Direct Mail'=>'Tiesioginis laiškas',
+	'Telemarketing'=>'Telemaketingas',
+	'Others'=>'Kitas',
+
+	'Planning'=>'Planuojama',						      	    
+	'Inactive'=>'Neaktyvi',
+	'Complete'=>'Užbaigta',
+	'Cancelled'=>'Atšaukta',							      
+
+	'Excellent'=>'Puikus',
+	'Good'=>'Geras',
+	'Average'=>'Vidutiniškas',
+	'Poor'=>'Silpnas',
+
+	// status fields 
+	'--None--'=>'—Nieko—',
+	'Contacted - Successful' => 'Susisiekta – sėkmingai',
+	'Contacted - Unsuccessful' => 'Susisiekta – nesėkmingai',
+	'Contacted - Never Contact Again' => 'Susisiekta – daugiau nebesusisiekti',
 );
 
 $jsLanguageStrings = array(
-       'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_ADD_THIS_FILTER' => 'Ar tikrai norite pridėti šio filtro įrašus?',
- );
+	'JS_APPENDED_TO_EXISTING_LIST' => '%s iš pasirinkto sąrašo bus pridėtas su esamu sąrašu.',
+);

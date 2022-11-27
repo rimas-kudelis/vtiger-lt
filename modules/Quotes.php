@@ -8,21 +8,35 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'Accepted'=>'Priimtas',
-	'Inventory Manager'=>'Inventoriaus tvarkytuvė',
-	'LBL_ADD_RECORD' => 'Pridėti pasiūlymą',
+	'Quotes'=>'Pasiūlymai ',
+	//DetailView Actions
+	'SINGLE_Quotes' => 'Pasiūlymas',
 	'LBL_EXPORT_TO_PDF' => 'Eksportuoti kaip PDF',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'buvo pašalintas iš sistemos. Pašalinkite šį elementą arba pakeiskite jį kitu',
-	'LBL_QUOTE_INFORMATION' => 'Pasiūlymo informacija',
-	'LBL_RECORDS_LIST' => 'Pasiūlymų sąrašas',
 	'LBL_SEND_MAIL_PDF' => 'Siųsti laišką su PDF failu',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Šis elementas buvo pašalintas iš sistemos. Prašome pašalinti jo nuorodą.',
-	'LBL_THIS' => 'Šis',
+
+	//Basic strings
+	'LBL_ADD_RECORD' => 'Pridėti pasiūlymą',
+	'LBL_RECORDS_LIST' => 'Pasiūlymų sąrašas',
+
+	// Blocks
+	'LBL_QUOTE_INFORMATION' => 'Pasiūlymo informacija',
+
+	//Field Labels
 	'Quote No'=>'Pasiūlymo Nr.',
 	'Quote Stage'=>'Pasiūlymo stadija',
-	'Rejected'=>'Atmestas',
-	'SINGLE_Quotes' => 'Pasiūlymas',
 	'Valid Till'=>'Galioja iki',
+	'Inventory Manager'=>'Inventoriaus tvarkytuvė',
+	'Related To' => 'Susijęs su',
+	//Added for existing Picklist Entries
+
+	'Accepted'=>'Priimtas',
+	'Rejected'=>'Atmestas',
+
+	//Translation for product not found
+	'LBL_THIS' => 'Šis',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'buvo pašalintas iš sistemos. Pašalinkite šį elementą arba pakeiskite jį kitu',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Šis elementas buvo pašalintas iš sistemos. Prašome pašalinti jo nuorodą.',
+
 );
 
 $jsLanguageStrings = array(

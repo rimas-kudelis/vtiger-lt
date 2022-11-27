@@ -8,6 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
+    'PurchaseOrder' => 'Pirkimo užsakymai',
 	//DetailView Actions
 	'SINGLE_PurchaseOrder' => 'Pirkimo užsakymai',
 	'LBL_EXPORT_TO_PDF' => 'Eksportuoti kaip PDF',
@@ -42,9 +43,24 @@ $languageStrings = array(
         'List Price'                   => 'Kaina kainyne',
     
     'LBL_COPY_COMPANY_ADDRESS' => 'Kopijuoti įmonės adresą',
-
+    'LBL_COPY_ACCOUNT_ADDRESS' => 'Kopijuoti organizacijos adresą',
+	'LBL_SELECT_ADDRESS_OPTION' => 'Pažymekite adresą kopijavimui',
+	'LBL_BILLING_ADDRESS' => 'Sąskaitų siuntimo adresas',
+	'LBL_COMPANY_ADDRESS' => 'Įmonės adresas',
+	'LBL_ACCOUNT_ADDRESS' => 'Organizacijos adresas',
+	'LBL_VENDOR_ADDRESS' => 'Tiekėjo adresas',
+	'LBL_CONTACT_ADDRESS' => 'Susisiekimo adresas'
+	
 );
 
 $jsLanguageStrings = array(
 	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Prašome pašalinti nuorodą į nebeegzistuojantį elementą',
+    'JS_ORGANIZATION_NOT_FOUND'=> 'Organizacija turčia!',
+    'JS_ORGANIZATION_NOT_FOUND_MESSAGE'=> 'Jei norite nukopijuoti adresą, pasirinkite organizaciją',
+	'JS_ACCOUNT_NOT_FOUND' => 'Organizacija turčia!',
+	'JS_ACCOUNT_NOT_FOUND_MESSAGE' =>  'Jei norite nukopijuoti adresą, pasirinkite organizaciją',
+	'JS_VENDOR_NOT_FOUND' => 'Tiekėjas tuščias', 
+	'JS_VENDOR_NOT_FOUND_MESSAGE' => 'Jei norite nukopijuoti adresą, pasirinkite tiekėją',
+	'JS_CONTACT_NOT_FOUND' => 'Adresatas tuščias', 
+	'JS_CONTACT_NOT_FOUND_MESSAGE' =>  'Jei norite nukopijuoti adresą, pasirinkite kontaktą',
 );

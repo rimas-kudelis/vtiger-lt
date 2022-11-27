@@ -8,14 +8,14 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'ModuleManager' => 'Modulių tvarkyklė',
+	'ModuleManager' => 'Modulių tvarkytuvė',
 	'LBL_IMPORT_MODULE' => 'Importuoti modulį',
-	'LBL_VTIGER_EXTENSION_STORE' => '„Vtiger“ priedų krautuvė',
+	'LBL_VTIGER_EXTENSION_STORE' => 'Vtiger priedų krautuvė',
 	'LBL_PUBLISHER' => 'Leidėjas',
 	'LBL_LICENSE' => 'Licencija',
 	'LBL_PUBLISHED_ON' => 'Paskelbtas',
-	'LBL_INSTALL' => 'Diegti',
-	'LBL_UPGRADE' => 'Naujovinti',
+	'LBL_INSTALL' => 'Įdiegti',
+	'LBL_UPGRADE' => 'Atnaujinti',
 	'LBL_VERSION' => 'Versija',
 	'LBL_DECLINE' => 'Atmesti',
 	'LBL_ACCEPT_AND_INSTALL' => 'Sutikti ir įdiegti',
@@ -38,14 +38,14 @@ $languageStrings = array(
 	'LBL_VERSION_NOT_SUPPORTED' => 'Modulio versija nesuderinama su šia „Vtiger“ versija',
 	'LBL_FINISH' => 'Užbaigti',
 	'LBL_IMPORT_ZIP' => 'Diegti iš failo',
-	'LBL_NOT_FOUND' => "Deja, šiuo metu nėra siūloma priedų jūsų naudojamai CRM versijai",
+	'LBL_NOT_FOUND' => "Deja, šiuo metu nėra siūloma priedų jūsų naudojamai KVS versijai",
 	'LBL_INVALID_IMPORT_TRY_AGAIN' => 'pateiktas moduliui importuoti. Bandykite dar kartą.',
 	'LBL_IMPORTED_MODULE' => 'modulis importuotas sėkmingai.',
 	'LBL__IMPORTING_MODULE' => 'Modulis importuojamas',
 	'LBL_EXTENSION_STORE' => 'Priedų krautuvė',
 	'LBL_ACCEPT_WITH_THE_DISCLAIMER' => 'Aš sutinku su sąlygomis ir norėčiau tęsti',
 	'LBL_INSTALL_FROM_ZIP' => 'Įdiegti iš Zip failo',
-	'LBL_DELETE_EXIST_DIRECTORY' => 'Please delete the module directory that exist to proceed with import module',
+	'LBL_DELETE_EXIST_DIRECTORY' => 'Prieš tęsdami modulio importą, pašalinkite egzistuojantį modulio aplanką',
 
 	'LBL_UPDATE_MODULE_FROM_FILE' => 'Atnaujinti modulį iš failo',
 	'LBL_UPDATED_MODULE' => 'modulis atnaujintas sėkmingai.',
@@ -59,7 +59,7 @@ $languageStrings = array(
 Jei bandote įdiegti failą, gautą iš 3-iųjų šalių, tęskite tik tuo atveju, jei pasitikite jo leidėju. Nestandartiniuose moduliuose gali būti saugumo spragų, be to, jie gali perrašyti sisteminius failus ir kelti grėsmę pačiai KVS sistemai. Jūsų ketinamas įdiegti modulis nebuvo peržiūrėtas ir patikrintas „Vtiger“ komandos.',
 );
 $jsLanguageStrings = array(
-	'JS_ON' => 'Įjungta',
+	'JS_ON' => 'Įjungtas',
 	'JS_PLEASE_INSTALL_EXTENSION_LOADER_TO_INSTALL_THIS_EXTENSION_FROM_BELOW_LINK' => 'Jei norite įdiegti šį priedą, turite pirma įdiegti priedų įkėliklį, kurį rasite žemiau esančiu adresu',
 	'JS_EXTENSION_STORE_IS_NOT_SUPPOTED_WOULD_YOU_LIKE_TO_INSTALL' => 'Šis priedas nepalaikomas. Ar tikrai norite jį įdiegti?',
 	'JS_PHP_EXTENSION_LOADER_NOT_INSTALLED' => 'PHP priedų įkėliklis neįdiegtas',

@@ -8,18 +8,27 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
+	// Home Page Components
 	'ALVT' => 'Aukščiausio prioriteto organizacijos',
-	'CVLVT' => 'Pagrindinė metrika',
-	'GRT' => 'Mano grupės išdėstymas',
-	'HDB' => 'Pradžios tinklalapio ataskaitos',
-	'HLT' => 'Aukščiausio prioriteto užduočių kortelės',
-	'Home'=> 'Pradžia',
-	'ILTI' => 'Didžiausios sąskaitos',
-	'LTFAQ' => 'Mano paskiausi DUK',
-	'OLTPO' => 'Didžiausi pirkimo užsakymai',
-	'OLTSO' => 'Didžiausi pardavimų užsakymai',
-	'PA' => 'Laukiančiosios veiklos',
 	'PLVT' => 'Didžiausios galimybės',
 	'QLTQ' => 'Stambiausi pasiūlymai',
+	'CVLVT' => 'Pagrindinė metrika',
+	'HLT' => 'Aukščiausio prioriteto užduočių kortelės',
+	'GRT' => 'Mano grupės išdėstymas',
+	'OLTSO' => 'Didžiausi pardavimų užsakymai',
+	'ILTI' => 'Didžiausios sąskaitos',
+	'HDB' => 'Pradžios tinklalapio ataskaitos',
+	'OLTPO' => 'Didžiausi pirkimo užsakymai',
+	'LTFAQ' => 'Mano paskiausi DUK',
 	'UA' => 'Būsimos veiklos',
+	'PA' => 'Laukiančiosios veiklos',
+    'Home'=> 'Skydelis',
+	'LBL_SAVE_ORDER'=>'Įrašyti eilės tvarką',
+	'LBL_ADD_NEW_DASHBOARD'=>'Pridėti naują skydelį',
+	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => 'Skydelio vardui leidžiama ne daugiau kaip 30 simbolių.',
+);
+
+$jsLanguageStrings = array(
+	'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'Dashboard name cannot not be empty',
+	'JS_NO_DATA_AVAILABLE' => 'No data available',
 );

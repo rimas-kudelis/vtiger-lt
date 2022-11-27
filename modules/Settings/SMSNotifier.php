@@ -8,21 +8,22 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Naujas paslaugos teikėjas',
-	'SMSNotifier' => 'SMS paslaugos teikėjų konfigūracija',
+	'isactive' => 'Aktyvus',
 	'LBL_ADD_CONFIGURATION' => 'Naujas SMS paslaugos teikėjas',
+	'LBL_ADD_RECORD' => 'Naujas paslaugos teikėjas',
 	'LBL_EDIT_CONFIGURATION' => 'Paslaugos teikėjo redagavimas',
 	'LBL_SELECT_ONE' => 'Pasirinkite vieną',
-	
-	//Fields
-	'providertype' => 'Operatorius',
-	'isactive' => 'Aktyvus',
-	'username' => 'Abonento vardas',
 	'password' => 'Slaptažodis',
+	'providertype' => 'Operatorius',
+	'SMSNotifier' => 'SMS paslaugos teikėjų konfigūracija',
+	'username' => 'Abonento vardas',
+        'ClickATellNew' => 'Clickatell (Platform)',
+        'ClickATell' => 'Clickatell (Communicator/Central)',
+        'LBL_CLICKATELLNEW_CALLBACKURL_INFO' => "Please copy this URL to the 'Enable delivery notifications' field in your ClickATell SMS Integration Settings page",
 );
 
 $jsLanguageStrings = array(
-	'LBL_DELETE_CONFIRMATION' => 'Ar tikrai norite pašalinti šį paslaugos teikėją',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'SMS paslaugos teikėjas pašalintas sėkmingai',
 	'JS_CONFIGURATION_SAVED' => 'SMS paslaugos teikėjas įrašytas',
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'SMS paslaugos teikėjas pašalintas sėkmingai',
+	'LBL_DELETE_CONFIRMATION' => 'Ar tikrai norite pašalinti šį paslaugos teikėją?',
 );	

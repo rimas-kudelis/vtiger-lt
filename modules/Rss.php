@@ -8,23 +8,24 @@
  * All Rights Reserved.
  ************************************************************************************/
 
-$languageStrings = array(
-    'LBL_ADD_FEED_SOURCE' => 'Pridėti sklaidos kanalą',
-    'LBL_ENTER_FEED_SOURCE' => 'Įveskite sklaidos kanalo adresą',
-    'LBL_FEEDS_LIST_FROM' => 'Sklaidos kanalų sąrašo forma',
-    'LBL_FEED_SOURCE' => 'Sklaidos kanalo adresas',
-	'LBL_RSS_FEED_SOURCES' => 'Sklaidos kanalai',
-    'LBL_SENDER' => 'Siuntėjas',
-    'LBL_SET_AS_DEFAULT' => 'Skirti numatytuoju',
-    'SINGLE_Rss' => 'RSS sklaidos kanalas',
+$languageStrings = Array(
+    'Rss'=>'Rss',
+    'LBL_RSS_FEED_SOURCES' => 'Rss Feed Sources',
+    'LBL_ADD_FEED_SOURCE' => 'Add Feed Source',
+    'LBL_FEEDS_LIST_FROM' => 'Feeds List From',
+    'LBL_SET_AS_DEFAULT' => 'Set As Default',
+    'LBL_SENDER' => 'Sender',
+    'LBL_FEED_SOURCE' => 'Feed Source',
+    'LBL_ENTER_FEED_SOURCE' => 'Enter Feed Source',
+    'SINGLE_Rss' => 'Rss Feed',
 );
 
 $jsLanguageStrings = array(
+	'JS_RSS_SUCCESSFULLY_SAVED' => 'Sklaidos kanalas sėkmingai pridėtas',
     'JS_INVALID_RSS_URL' => 'Netinkamas RSS sklaidos kanalo adresas',
     'JS_RSS_MADE_AS_DEFAULT' => 'Sklaidos kanalas skirtas numatytuoju',
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Sklaidos kanalas sėkmingai pridėtas',
+    'JS_NO_RECORDS' => 'Įrašų nėra',
 
 );
-
 
 ?>
